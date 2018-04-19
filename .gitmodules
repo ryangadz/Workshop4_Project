@@ -1,0 +1,3 @@
+[submodule "Plugins/Workshop4_Plugin"]
+	path = Plugins/Workshop4_Plugin
+	url = https://github.com/ryangadz/Workshop4_Plugin.git
